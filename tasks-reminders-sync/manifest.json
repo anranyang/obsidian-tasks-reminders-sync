@@ -1,0 +1,9 @@
+{
+  "id": "tasks-reminders-sync",
+  "name": "任务同步提醒事项",
+  "version": "1.3.0",
+  "minAppVersion": "1.4.0",
+  "description": "将 Tasks 插件的任务双向同步到 macOS 提醒事项的专用列表。完成状态双向同步，名称与日期以 Obsidian 为准，回链写入提醒的 URL 字段，#标签 保留在标题中转为提醒标签。",
+  "author": "anranyang",
+  "isDesktopOnly": true
+}
